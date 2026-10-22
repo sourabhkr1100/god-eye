@@ -156,10 +156,7 @@ ownership and adoption process.
 
 ## Maintainers
 
-God's Eye View is maintained by [Bilawal Sidhu](https://github.com/bilawalsidhu)
-and [Sameh Khamis](https://github.com/samehkhamis) at
-[Halfpixel](https://halfpixel.ai). Either maintainer can review and merge
-contributions.
+God's Eye View is maintained by [Sourabh](https://github.com/sourabh).
 
 ## Ground rules
 
